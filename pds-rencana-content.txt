@@ -1,0 +1,8 @@
+RENCANA KONTEN PDS 
+
+- Javascript
+  * ES6
+  * Framework javascript
+- PHP Framework
+- Interview
+- Vlogs
