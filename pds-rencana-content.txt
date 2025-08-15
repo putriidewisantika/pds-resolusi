@@ -3,6 +3,7 @@ RENCANA KONTEN PDS
 - Javascript
   * ES6
   * Framework javascript
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlogs
